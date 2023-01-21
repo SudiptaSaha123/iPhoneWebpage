@@ -59,7 +59,7 @@ li{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url('./iphone.jpg');
+    background-image: url('./assets/iphone.jpg');
     background-size: cover;
     background-position: center;
     padding-block: 50px;
